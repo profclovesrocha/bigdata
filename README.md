@@ -27,7 +27,7 @@ The coordination and administration of Uninassau Olinda have decided that the se
 1. Alysson Gomes, Breno Felipe, Matheus Peixoto, Natthan Gonçalves, Sabrina Araújo, Vitor Hugo
 2. Aylanna, Lindalva, Natalia, Pedro Gutemberg
 3. Thiago, Anderson, Erick, Ícaro
-4. ...
+4. João V. Azevedo, Vinicius, Gabriel Leal, Paulo Gabriel Moraes e Edilson Pereira
    
 # Mind Map
 <img width="3649" height="7338" alt="NotebookLM Mind Map (10)" src="https://github.com/user-attachments/assets/2c87ec18-13e9-45c2-b822-7d6853020e5a" />
