@@ -13,7 +13,7 @@ The coordination and administration of Uninassau Olinda have decided that the se
 - Docente: Prof. Mentor Cloves Rocha.
 
 - Discentes:
-1. ?
+1. Breno Felipe Lopes Lorenzo
 2. ?
 3. ?
 
