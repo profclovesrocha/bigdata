@@ -26,7 +26,7 @@ The coordination and administration of Uninassau Olinda have decided that the se
 # GROUPS / PROJECTS / CHALLENGES
 1. Alysson Gomes, Breno Felipe, Matheus Peixoto, Natthan Gonçalves, Sabrina Araújo, Vitor Hugo
 2. Aylanna, Lindalva, Natalia, Pedro Gutemberg
-3. ?
+3. Thiago, Anderson, Erick, Ícaro
 4. ...
    
 # Mind Map
