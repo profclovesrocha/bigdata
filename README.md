@@ -20,6 +20,7 @@ The coordination and administration of Uninassau Olinda have decided that the se
 5. Aylanna Santos De França - 01710642
 6. Lindalva Evellyn Ferreira - 01725681
 7. Pedro Gutemberg De Lima Silva- 01698431
+8. Alysson Gomes dos Rez
 
 # GROUPS / PROJECTS / CHALLENGES
 1. Alysson Gomes, Breno Felipe, Matheus Peixoto, Natthan Gonçalves, Sabrina Araújo, Vitor Hugo
