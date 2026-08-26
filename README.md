@@ -17,6 +17,9 @@ The coordination and administration of Uninassau Olinda have decided that the se
 2. Thiago Henrique Rodrigues Couceiro
 3. Erick Gomes Marques 
 4. Natalia Maria Tavares Dantas De Azevedo - 01616881
+5. Aylanna Santos De França - 01710642
+6. Lindalva Evellyn Ferreira - 01725681
+7. Pedro Gutemberg De Lima Silva- 01698431
 
 # GROUPS / PROJECTS / CHALLENGES
 1. ?
