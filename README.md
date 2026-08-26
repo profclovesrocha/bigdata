@@ -16,6 +16,7 @@ The coordination and administration of Uninassau Olinda have decided that the se
 1. Breno Felipe Lopes Lorenzo
 2. Thiago Henrique Rodrigues Couceiro
 3. Erick Gomes Marques 
+4. Natalia Maria Tavares Dantas De Azevedo - 01616881
 
 # GROUPS / PROJECTS / CHALLENGES
 1. ?
