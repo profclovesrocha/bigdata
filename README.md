@@ -15,7 +15,7 @@ The coordination and administration of Uninassau Olinda have decided that the se
 - Discentes:
 1. Breno Felipe Lopes Lorenzo
 2. Thiago Henrique Rodrigues Couceiro
-3. ?
+3. Erick Gomes Marques 
 
 # GROUPS / PROJECTS / CHALLENGES
 1. ?
