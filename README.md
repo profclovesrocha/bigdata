@@ -110,7 +110,8 @@ De acordo com o consenso estabelecido e registrado na Aula 1 (*Class 1*), os exa
 ---
 
 ## Gabarito e Justificativa Baseada nas Fontes
-...em breve
+_AQUI: -> [questoes-enade-uninassau.md](https://github.com/user-attachments/files/31740251/questoes-enade-uninassau.md)
+
 
 - Docente: Prof. Mentor Cloves Rocha.
 
