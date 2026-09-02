@@ -22,6 +22,7 @@ The coordination and administration of Uninassau Olinda have decided that the se
 7. Pedro Gutemberg De Lima Silva- 01698431
 8. Alysson Gomes dos Rez
 9. Anderson da Silva Bezerra
+10. Vitor Hugo - 01698637
 
 # GROUPS / PROJECTS / CHALLENGES
 1. Alysson Gomes, Breno Felipe, Matheus Peixoto, Natthan Gonçalves, Sabrina Araújo, Vitor Hugo
