@@ -15,13 +15,7 @@ Este questionário foi elaborado com base estrita nas informações e acordos pe
 
 ---
 
-### Questão 1
-De acordo com os registros de sala de aula (*Class Log*) da disciplina de Big Data (2026.2) na UNINASSAU Olinda, em qual data ficou acordada a realização do exame escrito da primeira avaliação (AV1)?
-- **A)** 05 de agosto de 2026.
-- **B)** 10 de agosto de 2026.
-- **C)** 12 de agosto de 2026.
-- **D)** 20 de agosto de 2026.
-- **E)** 30 de agosto de 2026.
+### Questão 1 (ANULADA)
 
 ---
 
