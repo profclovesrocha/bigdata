@@ -116,29 +116,7 @@ De acordo com o consenso estabelecido e registrado na Aula 1 (*Class 1*), os exa
 ---
 
 ## Gabarito e Justificativa Baseada nas Fontes
-
-1. **C) 12 de agosto de 2026.**
-   * *Justificativa:* O registro de aula da Aula 1 (*Class Log*) estabelece que os exames objetivos serão realizados no dia 12 de agosto de 2026.
-2. **C) Dividida em dois componentes: o projeto valendo 60% e o exame escrito valendo 40% da nota.**
-   * *Justificativa:* Conforme a decisão da coordenação e administração para a AV2, a nota será dividida entre projetos (60%) e exame escrito (40%).
-3. **E) 100% de aprovação dos presentes.**
-   * *Justificativa:* O *Class Log* informa que "concordamos com 100% dos estudantes presentes durante a Aula 1" sobre o formato de questões no estilo ENADE.
-4. **B) Jupyter Notebook (.ipynb).**
-   * *Justificativa:* As estatísticas do GitHub mostram "Languages: Jupyter Notebook 100%".
-5. **C) Dados abertos governamentais (portal gov.br).**
-   * *Justificativa:* O registro da Aula 2 (*Class Log*) prevê "uma atividade usando dados abertos (gov.br)".
-6. **C) O Livro Digital - eBook ML CODE.**
-   * *Justificativa:* A tabela de arquivos do repositório indica que a pasta `ebook` recebeu o commit de "Livro Digital - eBook ML CODE".
-7. **A) `gastoes_congresso.ipynb`.**
-   * *Justificativa:* A lista de arquivos diretamente na raiz do repositório inclui o arquivo `gastoes_congresso.ipynb` com a descrição "Criado usando o Colab".
-8. **B) Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira.**
-   * *Justificativa:* O título oficial da fonte correspondente é "Enade - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira".
-9. **B) Salvo diretamente no diretório raiz do repositório.**
-   * *Justificativa:* O arquivo "Guia para o Seminário Avaliativo Final e Prático de Big Data" está localizado na raiz do repositório, conforme mapeado na navegação de arquivos.
-10. **B) 10 questões objetivas elaboradas no estilo oficial do ENADE.**
-    * *Justificativa:* O acordo de sala da Aula 1 define que as avaliações consistirão em exames escritos contendo 10 questões objetivas no estilo ENADE.
-loading questoes-enade-uninassau.md…]()
-
+...em breve
 
 - Docente: Prof. Mentor Cloves Rocha.
 
