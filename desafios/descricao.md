@@ -4,3 +4,11 @@
   
 # Live Especial com Prof. PhD Jones Albuquerque
 - Acesso: https://youtu.be/DLqaaq4nCf8?si=VUYb-v8jHfPYeeII
+
+# Ferramentas Sugeridas
+- neo4j: https://neo4j.com
+- SQL / MySQL
+- MapReduce/Spark / Apache Spark / Apache HBase
+- ClickHouse / Hadoop
+- BigQuery
+- Apache Flink e Apache Kafka Streams 
