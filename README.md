@@ -128,10 +128,11 @@ _AQUI: -> [questoes-enade-uninassau.md](https://github.com/user-attachments/file
 10. Lucidio Alheiros de Albuquerque Mello Neto. 
 
 # GROUPS / PROJECTS / CHALLENGES
-1. Alysson Gomes, Breno Felipe, Matheus Peixoto, Natthan Gonçalves, Sabrina Araújo, Vitor Hugo
-2. Aylanna, Lindalva, Natalia, Pedro Gutemberg
-3. Thiago, Anderson, Erick, Ícaro
-4. João V. Azevedo, Vinicius, Gabriel Leal, Paulo Gabriel Moraes e Edilson Pereira
+1. Alysson Gomes, Breno Felipe, Matheus Peixoto, Natthan Gonçalves, Sabrina Araújo, Vitor Hugo.
+2. Aylanna, Lindalva, Natalia e Pedro Gutemberg.
+3. Thiago, Anderson, Erick, Ícaro.
+4. João V. Azevedo, Vinicius, Gabriel Leal, Paulo Gabriel Moraes e Edilson Pereira.
+5. ?
    
 # Mind Map
 <img width="3649" height="7338" alt="NotebookLM Mind Map (10)" src="https://github.com/user-attachments/assets/2c87ec18-13e9-45c2-b822-7d6853020e5a" />
