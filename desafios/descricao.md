@@ -11,5 +11,5 @@
 - SQL / MySQL
 - MapReduce/Spark / Apache Spark / Apache HBase
 - ClickHouse / Hadoop
-- BigQuery
+- BigQuery / Apache airflow https://airflow.apache.org/
 - Apache Flink e Apache Kafka Streams 
