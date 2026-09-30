@@ -10,6 +10,7 @@ The coordination and administration of Uninassau Olinda have decided that the se
 
 - Practice Test for Written Exams (ENADE Style): https://abre.ai/bigdata-enade-style
 - Este questionário foi elaborado com base estrita nas informações e acordos pedagógicos contidos no repositório oficial da disciplina e no portal do ENADE. Cada questão possui 5 alternativas, sendo apenas uma correta.
+- AVALIAR O DOCENTE: https://forms.gle/RQhogCvz14XVhdYJ7
 
 - Discentes:
 1. Breno Felipe Lopes Lorenzo
