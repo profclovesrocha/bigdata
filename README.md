@@ -8,8 +8,9 @@ Subject: BIG DATA / Docente: Prof. Mentor Cloves Rocha.
 * ASSESSMENT 2
 The coordination and administration of Uninassau Olinda have decided that the second-semester assessments (Assessment 2 – AV2) will be split between projects and a written exam—that is, two assessment components—with the project accounting for 60% and the written exam for 40% of the AV2 grade.
 
-- Practice Test for Written Exams (ENADE Style): https://abre.ai/bigdata-enade-style
+- Practice 01 Test for Written Exams (ENADE Style): https://abre.ai/bigdata-enade-style
 - Este questionário foi elaborado com base estrita nas informações e acordos pedagógicos contidos no repositório oficial da disciplina e no portal do ENADE. Cada questão possui 5 alternativas, sendo apenas uma correta.
+- Practice 02 Test for Written Exams (ENADE Style): https://notebooklm.link.google/ZyQp0THHuWDZ
 - AVALIAR O DOCENTE: https://forms.gle/RQhogCvz14XVhdYJ7
 
 - Discentes:
