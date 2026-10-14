@@ -12,6 +12,7 @@ The coordination and administration of Uninassau Olinda have decided that the se
 - Este questionário foi elaborado com base estrita nas informações e acordos pedagógicos contidos no repositório oficial da disciplina e no portal do ENADE. Cada questão possui 5 alternativas, sendo apenas uma correta.
 - Practice 02 Test for Written Exams (ENADE Style): https://notebooklm.link.google/ZyQp0THHuWDZ
 - AVALIAR O DOCENTE: https://forms.gle/RQhogCvz14XVhdYJ7
+- Orientação do Projeto AV2 via PodCast: https://notebooklm.link.google/h5oUWfELjrnH 
 
 - Discentes:
 1. Breno Felipe Lopes Lorenzo
