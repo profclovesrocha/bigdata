@@ -32,7 +32,11 @@ The coordination and administration of Uninassau Olinda have decided that the se
 3. Thiago, Anderson, Erick, Ícaro.
 4. João V. Azevedo, Vinicius, Gabriel Leal, Paulo Gabriel Moraes e Edilson Pereira.
 5. ?
-   
+
+# Persona Exemplo
+<img width="2752" height="1536" alt="Gemini_Generated_Image_krhpa5krhpa5krhp" src="https://github.com/user-attachments/assets/af29819e-5e52-47de-97c8-d943a9666bb2" />
+
+
 # Mind Map
 <img width="3649" height="7338" alt="NotebookLM Mind Map (10)" src="https://github.com/user-attachments/assets/2c87ec18-13e9-45c2-b822-7d6853020e5a" />
 
