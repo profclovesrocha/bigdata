@@ -24,14 +24,17 @@ The coordination and administration of Uninassau Olinda have decided that the se
 7. Pedro Gutemberg De Lima Silva- 01698431
 8. Alysson Gomes dos Rez
 9. Anderson da Silva Bezerra
-10. Lucidio Alheiros de Albuquerque Mello Neto. 
+10. Lucidio Alheiros de Albuquerque Mello Neto.
+11. Pedro Gabriel Siqueira dos Santos
+12. Odenir de Vasconcelos Soares neto
+13. Diego Henrique Gomes da Silva
 
 # GROUPS / PROJECTS / CHALLENGES
 1. Alysson Gomes, Breno Felipe, Matheus Peixoto, Natthan Gonçalves, Sabrina Araújo, Vitor Hugo.
 2. Aylanna, Lindalva, Natalia e Pedro Gutemberg.
 3. Thiago, Anderson, Erick, Ícaro.
 4. João V. Azevedo, Vinicius, Gabriel Leal, Paulo Gabriel Moraes e Edilson Pereira.
-5. ?
+5. Pedro Gabriel, Odenir Neto, Diego Henrique
 
 # Persona Exemplo
 <img width="2752" height="1536" alt="Gemini_Generated_Image_krhpa5krhpa5krhp" src="https://github.com/user-attachments/assets/af29819e-5e52-47de-97c8-d943a9666bb2" />
